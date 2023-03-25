@@ -3,11 +3,11 @@ SQL_Project_Music_Store_Analysis
 It is a beginner project to analyze the music playlist database
 
 Database Info : 
-- It has 11 table in database, each contain own seprate ID, 
-- the tables contain the general information about Songs, albums, artists, customers, employees and so on
-- the Schema image available on the "music store data" folder for better information
+
+The database includes 11 tables, each with its own unique ID. One of the tables contains information about music stores, including albums, artists, customers, genres, invoice details, media types, and more.
 
 purpose : 
+
 The music industry is planning a promotional music festival and wants to identify the city where they have made the most profit. To do this, we need to determine the customer who has spent the most money on a purchase. Additionally, the company plans to invite the top 10 artists who have written the most rock music.
 
 To ensure a successful festival, the company also wants to identify the customer who has spent the most money on artists. This information will help them tailor their marketing efforts and promotional offers.
